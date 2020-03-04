@@ -3,4 +3,5 @@
 ### Team Members
 1. Griffin Rock
 2. Jacob Lu Peterson
-3. Citizen Kane
+3. Citizen Kanne
+4. KOOL
