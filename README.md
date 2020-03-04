@@ -15,4 +15,4 @@
           * Sequence
           * Search
 3. Wireframes
-    1. Home wireframe
+    1. Home Wireframe
