@@ -3,3 +3,19 @@
 ### Team Members
 1. Griffin Rock
 2. Jacob Lu Peterson
+
+
+
+
+
+
+
+
+
+2. Requirements Document
+    1. Representation
+    2. Interaction
+          * Sequence
+          * Search
+3. Wireframes
+    1. ![Home Wireframe](/img/wireframe1.PNG)
